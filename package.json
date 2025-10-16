@@ -6,8 +6,7 @@
   "scripts": {
     "run:ui:tests": "npx playwright test --project=paydo-ui-tests",
     "run:api:tests": "npx playwright test --project=api-tests",
-    "open:report": "npx playwright show-report",
-    "eslint": "eslint ."
+    "open:report": "npx playwright show-report"
   },
   "keywords": [],
   "author": "",
